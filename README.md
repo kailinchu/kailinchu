@@ -1,4 +1,10 @@
-### Hi there 👋
+![GitHub](https://user-images.githubusercontent.com/68765813/149629986-5bea0026-0da8-4318-bdf4-8b05f31feaed.png)
+
+# 👋 Hi, I'm Kailin!
+
+I'm a problem solver, adventurer, and aspiring change maker. Check out my projects here and feel free to reach me on [LinkedIn](https://www.linkedin.com/in/kailinchu/)!
+
+
 
 <!--
 **kailinchu/kailinchu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
