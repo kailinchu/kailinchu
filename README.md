@@ -1,8 +1,8 @@
-![GitHub](https://user-images.githubusercontent.com/68765813/149629986-5bea0026-0da8-4318-bdf4-8b05f31feaed.png)
+![Header](https://user-images.githubusercontent.com/68765813/149630498-53978805-dfe7-406c-9f07-82940fad2e01.png)
 
 # 👋 Hi, I'm Kailin!
 
-I'm a problem solver, adventurer, and aspiring change maker. Check out my projects here and feel free to reach me on [LinkedIn](https://www.linkedin.com/in/kailinchu/)!
+I am a problem solver, adventurer, and aspiring change maker. You can check out some of my projects here and find me on [LinkedIn](https://www.linkedin.com/in/kailinchu/) :))
 
 
 
